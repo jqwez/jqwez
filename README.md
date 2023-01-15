@@ -3,6 +3,7 @@
 ## Jeremy Vasquez | Full Stack Software Engineer
 
 * 🌍  I'm currently based in the UK. 
+* 📺  My YouTube repos are at [CodingJQ](https://github.com/codingjq)
 * ✉️  You can contact me at [me@jervas.com](mailto:me@jervas.com)
 
 ### My Favorite Tech Tools
