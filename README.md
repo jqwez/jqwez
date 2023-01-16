@@ -2,11 +2,12 @@
 
 ## Jeremy Vasquez | Full Stack Software Engineer
 
-* 🌍  I'm currently based in the UK. 
+* 🌍  My personal website is [info.jervas.com](https://info.jervas.com)   
+* ⚓  I'm currently based in the UK. 
 * 📺  My YouTube repos are at [GitHub CodingJQ](https://github.com/codingjq) and my channel [Watch CodingJQ](https://youtube.com/@codingjq)
 * ✉️  You can contact me at [me@jervas.com](mailto:me@jervas.com)
 
-### My Favorite Tech Tools
+### Some of my Favorite Tech Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
