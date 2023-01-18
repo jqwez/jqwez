@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a helicopter pilot that decided to learn to program. 
+### Hi there 👋 I'm a helicopter pilot and self taught programmer.
 
 ## Jeremy Vasquez | Full Stack Software Engineer
 
