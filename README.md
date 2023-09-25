@@ -3,7 +3,7 @@
 ## Jeremy Vasquez | Software Engineer
 
 * 🌍  My personal website is [jervas.com](https://jervas.com). Try my Daily Guesser [Rapple](https://rapple.jervas.com).   
-* ⚓  I'm currently based in the UK. 
+* ⚓  I'm currently based in Virginia. 
 * 📺  My YouTube channel's repos are at [GitHub CodingJQ](https://github.com/codingjq). Check out the vids at [Watch CodingJQ](https://youtube.com/@codingjq).
 * ✉️  You can contact me at [me@jervas.com](mailto:me@jervas.com)
 
