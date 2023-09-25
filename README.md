@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a helicopter pilot and self-taught programmer.
 
-## Jeremy Vasquez | Full Stack Software Engineer
+## Jeremy Vasquez | Software Engineer
 
 * 🌍  My personal website is [jervas.com](https://jervas.com). Try my Daily Guesser [Rapple](https://rapple.jervas.com).   
 * ⚓  I'm currently based in the UK. 
